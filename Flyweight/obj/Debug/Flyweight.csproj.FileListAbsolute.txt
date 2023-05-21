@@ -1,0 +1,8 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\Flyweight.pdb
